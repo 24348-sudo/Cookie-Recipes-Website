@@ -1,7 +1,19 @@
 
 .hero-text {
+    background-color: #CF868F99;
+     position: absolute;
     text-align: center;
+    top: 130px;
+    width: 100%;
+    font-size: 4rem;
+    padding: 20px;
 }
 .hero-image {
     background-image: url("./imgs/hero-img.jpg");
+    height: 352px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    color: white;
 }
