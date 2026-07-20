@@ -2,6 +2,11 @@
 body{
     background: #885B60;
 }
+img{
+    width:100px;
+    overflow: hidden;
+    height: 100px;
+}
 .hero-text {
     background-color: #CF868F99;
     color: white;
@@ -33,4 +38,14 @@ body{
     padding: 50px;
     margin-left: 10%;
     margin-right: 10%;
+}
+.card{
+    background: white;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 100px;
+    width: 80%;
+    margin:auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
 }
