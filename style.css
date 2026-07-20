@@ -1,12 +1,16 @@
 
+body{
+    background: #885B60;
+}
 .hero-text {
     background-color: #CF868F99;
-     position: absolute;
+    color: white;
+    position: absolute;
     text-align: center;
     top: 130px;
     width: 100%;
     font-size: 4rem;
-    padding: 30px;
+    padding: 20px;
 }
 .hero-image {
     background-image: url("./imgs/hero-img.jpg");
@@ -15,5 +19,18 @@
     background-size: cover;
     background-position: center;
     position: relative;
-    color: white;
+    margin: 0;
+    padding: 0;
+}
+.description{
+    background: #E5CACC;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.descriptive-text{
+    text-align: center;
+    padding: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
