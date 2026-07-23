@@ -72,4 +72,5 @@ img{
 .card-text{
     color: #885B60;
     display: inline-block;
+    text-align: center;
 }
