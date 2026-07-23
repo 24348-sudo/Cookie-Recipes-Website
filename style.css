@@ -39,13 +39,26 @@ img{
     margin-left: 10%;
     margin-right: 10%;
 }
-.card{
-    background: white;
+.grid{
     display: grid;
     grid-template-columns: auto auto auto;
-    gap: 100px;
-    width: 80%;
+    gap: 50px;
+}
+.card{
+    display:inline-block;
+    background: white;
+    width: 200px;
+    height: 300px;
     margin:auto;
     margin-top: 40px;
     margin-bottom: 50px;
+}
+.card-title{
+    text-align: center;
+    color: #885B60;
+    display: inline-block;
+}
+.card-text{
+    color: #885B60;
+    display: inline-block;
 }
