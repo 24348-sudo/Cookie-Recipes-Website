@@ -7,7 +7,7 @@ img{
 }
 .hero-text {
     background-color: #CF868F99;
-    color: white;
+    color: whitesmoke;
     position: absolute;
     text-align: center;
     top: 130px;
@@ -44,10 +44,11 @@ img{
     margin-top: 100px;
     margin-left: 400px;
     margin-right: 400px;
+    margin-bottom: 100px;
 }
 .card{
     display:inline-block;
-    background: white;
+    background: whitesmoke;
     margin: auto;
     height: 500px;
     width: 300px;
@@ -72,4 +73,16 @@ img{
     color: #885B60;
     text-align: center;
     margin: 20px;
+}
+.banner-box{
+    width: 100%;
+    height: 300px;
+    background: #E5CACC;
+    margin: 0;
+    padding: 0;
+}
+.contacts-text{
+    color: whitesmoke;
+    font-size: 30px;
+    padding: 50px;
 }
