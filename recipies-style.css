@@ -7,12 +7,13 @@ img{
     margin-right: 0px;
     margin-top: 50px;
     margin-bottom: 50px;
+    padding: 0;
 }
 .recipe-banner{
     background-color: #FFDEDE;
     display: grid;
     grid-template-columns: auto auto;
-
+    gap: 0;
 }
 .banner-text-container{
     display:inline-block;
@@ -22,4 +23,18 @@ img{
     margin-left: 0px;
     margin-top: 50px;
     margin-bottom: 50px;
+    padding: 0;
+    background-color: #F5F5F5;
+}
+.banner-heading{
+    color: #885B60;
+    text-align: center;
+    padding: 20px
+}
+.recipe-description-text{
+    color: #885B60;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
 }
