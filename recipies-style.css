@@ -1,0 +1,25 @@
+body{
+    background-color: #F4E8E9;
+}
+img{
+    height: 400px;
+    margin-left: 400px;
+    margin-right: 0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.recipe-banner{
+    background-color: #FFDEDE;
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+.banner-text-container{
+    display:inline-block;
+    width: 500px;
+    margin: 0;
+    margin-right: 400px;
+    margin-left: 0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
