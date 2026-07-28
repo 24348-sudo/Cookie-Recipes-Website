@@ -100,3 +100,11 @@ h1{
     text-align: center;
     margin: 100px;
 }
+.banner-bottom{
+    background: #FFDEDE;
+    padding: 50px;
+}
+.contacts-text{
+    color: whitesmoke;
+    font-size: 20px;
+}
