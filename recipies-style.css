@@ -108,3 +108,10 @@ h1{
     color: whitesmoke;
     font-size: 20px;
 }
+.button-text{
+    display: inline-block;
+    background: #885B60;
+    color: #FFDEDE;
+    padding: 10px;
+    border-radius: 10%;
+}
