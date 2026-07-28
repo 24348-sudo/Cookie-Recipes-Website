@@ -1,6 +1,15 @@
 body{
     background-color: #F4E8E9;
 }
+h2{
+    text-align: center;
+    color: #885B60;
+}
+p{
+    color: #885B60;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
 img{
     height: 400px;
     margin-left: 400px;
@@ -34,10 +43,28 @@ img{
 .recipe-description-text{
     color: #885B60;
     text-align: center;
-    padding-right: 10px;
-    padding-left: 10px;
-    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin:0;
 }
-.equipment-ingredients-containers{
+.equipment-ingredients{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 0;
+    margin: 100px;
+    width: 100%;
+    
+}
+.equipment-containers{
+    display: inline-block;
     background: whitesmoke;
+    margin: 10px;
+    width: 500px;
+}
+.ingredients-containers{
+    display: inline-block;
+    background: whitesmoke;
+    margin: 10px;
+    width: 500px;
 }
