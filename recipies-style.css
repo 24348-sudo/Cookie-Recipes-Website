@@ -79,3 +79,17 @@ img{
     color: #F4E8E9;
     font-size: 30px;
 }
+.instructions-section{
+    margin: 100px;
+    margin-top: 0;
+}
+.instructions-container-white{
+    background: whitesmoke;
+    padding: 50px;
+}
+.instructions-container-pink{
+    padding: 50px;
+}
+.instructions-text{
+    font-size: 16px;
+}
