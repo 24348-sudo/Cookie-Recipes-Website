@@ -10,36 +10,36 @@ p{
     margin-left: 100px;
     margin-bottom: 50px;
 }
-img{
-    height: 400px;
-    margin-left: 400px;
-    margin-right: 0px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding: 0;
-    border-radius: 10%;
-}
 .recipe-banner{
     background-color: #FFDEDE;
-    display: grid;
-    grid-template-columns: auto auto;
-    gap: 0;
+    padding: 10px;
+}
+.banner-img{
+    height: 400px;
+    width: 400px;
+    background-image: url(./imgs/Vanilla-Sugar-Cookies-1-86.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: auto;
+    padding: 0;
+    display: block;
+    text-align: center;
+
 }
 .banner-text-container{
-    display:inline-block;
-    width: 500px;
-    margin: 0;
-    margin-right: 400px;
-    margin-left: 0px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding: 0;
+    display:block;
+    width: 800px;
+    margin: auto;
+    margin-bottom: 100px;
+    padding-bottom: 50px;
     background-color: #F5F5F5;
 }
 .banner-heading{
     color: #885B60;
     text-align: center;
-    padding: 20px
+    padding: 20px;
+    margin: 20px
 }
 .recipe-description-text{
     color: #885B60;
