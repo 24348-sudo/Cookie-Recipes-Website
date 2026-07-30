@@ -12,7 +12,7 @@ p{
 }
 .recipe-banner{
     background-color: #FFDEDE;
-    padding: 10px;
+    padding: 50px;
 }
 .banner-img{
     height: 400px;
@@ -31,8 +31,8 @@ p{
     display:block;
     width: 800px;
     margin: auto;
-    margin-bottom: 100px;
-    padding-bottom: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 25px;
     background-color: #F5F5F5;
 }
 .banner-heading{
@@ -56,7 +56,6 @@ p{
     margin: 100px;
     width: 80%;
     padding: 0;
-    
 }
 .equipment-containers{
     display: inline-block;
