@@ -14,10 +14,10 @@ p{
     background-color: #885B60;
     padding: 50px;
 }
-.banner-img{
+.banner-img-vanilla{
     height: 400px;
     width: 400px;
-    background-image: url(./imgs/Vanilla-Sugar-Cookies-1-86.jpg);
+    background-image: url(./imgs/./Vanilla-Sugar-Cookies-1-86.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -25,7 +25,18 @@ p{
     padding: 0;
     display: block;
     text-align: center;
-
+}
+.banner-img-choco-hazel{
+    height: 400px;
+    width: 400px;
+    background-image: url(./imgs/Chocolate-Hazelnut-Shortbread-Cookies-2-.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: auto;
+    padding: 0;
+    display: block;
+    text-align: center;
 }
 .banner-text-container{
     display:block;
@@ -39,14 +50,14 @@ p{
     color: #885B60;
     text-align: center;
     padding: 20px;
-    margin: 20px
+    margin: 20px;
+    margin-bottom:0;
+    padding-bottom: 0;
 }
 .recipe-description-text{
     color: #885B60;
     text-align: center;
-    padding-right: 20px;
-    padding-left: 20px;
-    padding-top: 20px;
+    padding: 20px;
     margin:0;
 }
 .equipment-ingredients{
