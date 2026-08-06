@@ -38,6 +38,90 @@ p{
     display: block;
     text-align: center;
 }
+.banner-img-choco-pecan{
+    height: 400px;
+    width: 400px;
+    background-image: url(./imgs/Chocolate-Chip-Pecan-Cookies.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: auto;
+    padding: 0;
+    display: block;
+    text-align: center;
+}
+.banner-img-linzer{
+    height: 400px;
+    width: 400px;
+    background-image: url(./imgs/Cranberry-Linzer-Cookie-3-5-360x480.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: auto;
+    padding: 0;
+    display: block;
+    text-align: center;
+}
+.banner-img-white-choc{
+    height: 400px;
+    width: 400px;
+    background-image: url(./imgs/Cranberry-White-Chocolate-Oatmeal-Cookies-28.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: auto;
+    padding: 0;
+    display: block;
+    text-align: center;
+}
+.banner-img-easter{
+    height: 400px;
+    width: 400px;
+    background-image: url(./imgs/Easter-Chocolate-Chip-Cookies-17.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: auto;
+    padding: 0;
+    display: block;
+    text-align: center;
+}
+.banner-img-lemon-curd{
+    height: 400px;
+    width: 400px;
+    background-image: url(./imgs/Lemon-Curd-Cookies-21-360x480.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: auto;
+    padding: 0;
+    display: block;
+    text-align: center;
+}
+.banner-img-lime{
+    height: 400px;
+    width: 400px;
+    background-image: url(./imgs/Lime-Shortbread-Cookies-93-3C-360x480.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: auto;
+    padding: 0;
+    display: block;
+    text-align: center;
+}
+.banner-img-strawberry{
+    height: 400px;
+    width: 400px;
+    background-image: url(./imgs/Strawberry-Sugar-Cookies.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: auto;
+    padding: 0;
+    display: block;
+    text-align: center;
+}
 .banner-text-container{
     display:block;
     width: 800px;
