@@ -65,9 +65,18 @@ img{
     padding: 0;
     display: inline-block;
 }
-.card-title{
+a{
     text-align: center;
     color: #885B60;
+    font-size: 25px;
+    margin: 10px;
+    display: block;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    font-weight: bolder;
 }
 .card-text{
     color: #885B60;
@@ -83,6 +92,6 @@ img{
 }
 .contacts-text{
     color: whitesmoke;
-    font-size: 30px;
+    font-size: 20px;
     padding: 50px;
 }
