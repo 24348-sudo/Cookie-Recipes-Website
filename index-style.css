@@ -6,6 +6,7 @@ img{
     overflow: hidden;
 }
 .hero-text {
+    display: block;
     background-color: #CF868F99;
     color: whitesmoke;
     position: absolute;
@@ -13,7 +14,8 @@ img{
     top: 130px;
     width: 100%;
     font-size: 4rem;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .hero-image {
     background-image: url("./imgs/hero-img.jpg");
