@@ -55,6 +55,13 @@ img{
     height: 500px;
     width: 300px;
 }
+.card:hover{
+    border-style: double;
+    border-width: 10px;
+    border-color: #FFDEDE;
+    height: 480px;
+    width: 280px;
+}
 .img-container-pecan{
     background-image: url("./imgs/Chocolate-Chip-Pecan-Cookies.jpg");
     height: 40%;
