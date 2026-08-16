@@ -159,6 +159,9 @@ p{
     margin: 10px;
     width: 500px;
 }
+.ingredients-text{
+    padding-right: 30px
+}
 .ingredients-containers{
     display: inline-block;
     background: whitesmoke;
