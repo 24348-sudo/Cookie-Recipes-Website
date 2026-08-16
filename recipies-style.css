@@ -9,6 +9,7 @@ p{
     color: #885B60;
     margin-left: 100px;
     margin-bottom: 50px;
+    font-size: 17px;
 }
 .recipe-banner{
     background-color: #885B60;
@@ -186,7 +187,7 @@ p{
     padding: 50px;
 }
 .instructions-text{
-    font-size: 16px;
+    font-size: 18px;
 }
 h1{
     color: #885B60;
