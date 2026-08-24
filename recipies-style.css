@@ -148,10 +148,11 @@ p{
 .equipment-ingredients{
     display: grid;
     grid-template-columns: auto auto;
-    justify-content: center;
-    gap: 0;
-    padding: 100px;
-    width: 80%;
+    place-content: center;
+    gap: 10px;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    width: 100%;
 }
 .equipment-containers{
     display: inline-block;
