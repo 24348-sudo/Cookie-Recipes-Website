@@ -111,11 +111,10 @@ p{
     display: block;
     text-align: center;
 }
-.banner-img-strawberry{
+img{
     height: 400px;
     width: 400px;
-    background-image: url(./imgs/Strawberry-Sugar-Cookies.jpg);
-    background-size: cover;
+    object-fit: cover;
     background-position: center;
     position: relative;
     margin: auto;
