@@ -201,6 +201,7 @@ h1{
 .banner-bottom{
     background: #FFDEDE;
     padding: 50px;
+    height: 100px;
 }
 .contacts-text{
     color: white;
