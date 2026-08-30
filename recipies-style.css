@@ -1,6 +1,14 @@
 body{
     background-color: #F4E8E9;
 }
+h1{
+    color: #885B60;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    margin-bottom:0;
+    padding-bottom: 0;
+}
 h2{
     text-align: center;
     color: #885B60;
@@ -33,14 +41,6 @@ img{
     margin-bottom: 20px;
     padding-bottom: 25px;
     background-color: #F5F5F5;
-}
-h1{
-    color: #885B60;
-    text-align: center;
-    padding: 20px;
-    margin: 20px;
-    margin-bottom:0;
-    padding-bottom: 0;
 }
 .recipe-description-text{
     color: #885B60;
