@@ -15,102 +15,6 @@ p{
     background-color: #885B60;
     padding: 50px;
 }
-.banner-img-vanilla{
-    height: 400px;
-    width: 400px;
-    background-image: url(./imgs/./Vanilla-Sugar-Cookies-1-86.jpg);
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    margin: auto;
-    padding: 0;
-    display: block;
-    text-align: center;
-}
-.banner-img-choco-hazel{
-    height: 400px;
-    width: 400px;
-    background-image: url(./imgs/Chocolate-Hazelnut-Shortbread-Cookies-2-.jpg);
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    margin: auto;
-    padding: 0;
-    display: block;
-    text-align: center;
-}
-.banner-img-choco-pecan{
-    height: 400px;
-    width: 400px;
-    background-image: url(./imgs/Chocolate-Chip-Pecan-Cookies.jpg);
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    margin: auto;
-    padding: 0;
-    display: block;
-    text-align: center;
-}
-.banner-img-linzer{
-    height: 400px;
-    width: 400px;
-    background-image: url(./imgs/Cranberry-Linzer-Cookie-3-5-360x480.jpg);
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    margin: auto;
-    padding: 0;
-    display: block;
-    text-align: center;
-}
-.banner-img-white-choc{
-    height: 400px;
-    width: 400px;
-    background-image: url(./imgs/Cranberry-White-Chocolate-Oatmeal-Cookies-28.jpg);
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    margin: auto;
-    padding: 0;
-    display: block;
-    text-align: center;
-}
-.banner-img-easter{
-    height: 400px;
-    width: 400px;
-    background-image: url(./imgs/Easter-Chocolate-Chip-Cookies-17.jpg);
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    margin: auto;
-    padding: 0;
-    display: block;
-    text-align: center;
-}
-.banner-img-lemon-curd{
-    height: 400px;
-    width: 400px;
-    background-image: url(./imgs/Lemon-Curd-Cookies-21-360x480.jpg);
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    margin: auto;
-    padding: 0;
-    display: block;
-    text-align: center;
-}
-.banner-img-lime{
-    height: 400px;
-    width: 400px;
-    background-image: url(./imgs/Lime-Shortbread-Cookies-93-3C-360x480.jpg);
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    margin: auto;
-    padding: 0;
-    display: block;
-    text-align: center;
-}
 img{
     height: 400px;
     width: 400px;
@@ -130,7 +34,7 @@ img{
     padding-bottom: 25px;
     background-color: #F5F5F5;
 }
-.banner-heading{
+h1{
     color: #885B60;
     text-align: center;
     padding: 20px;
@@ -192,16 +96,11 @@ img{
 .instructions-text{
     font-size: 18px;
 }
-h1{
-    color: #885B60;
-    font-size: 50px;
-    text-align: center;
-    margin: 100px;
-}
 .banner-bottom{
     background: #FFDEDE;
     padding: 50px;
     height: 100px;
+    margin-top: 100px;
 }
 .contacts-text{
     color: white;
